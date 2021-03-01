@@ -2,3 +2,10 @@
 [0m2021.03.01 08:37:12 INFO  time: initialize in 0.88s[0m
 [0m2021.03.01 08:37:17 WARN  Build server is not auto-connectable.[0m
 [0m2021.03.01 08:37:17 WARN  no build tool detected in workspace 'C:\Users\mtako\Week_3_IP'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.03.01 13:23:05 INFO  shutting down Metals[0m
+[0m2021.03.01 13:24:41 INFO  Started: Metals version 0.10.0 in workspace 'C:\Users\mtako\Week_3_IP' for client vscode 1.53.2.[0m
+[0m2021.03.01 13:24:44 INFO  time: initialize in 2.92s[0m
+[0m2021.03.01 13:24:58 WARN  Build server is not auto-connectable.[0m
+[0m2021.03.01 13:24:58 WARN  no build tool detected in workspace 'C:\Users\mtako\Week_3_IP'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Mar 01, 2021 1:36:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
