@@ -15,3 +15,7 @@
     background-image: url(s_image.jpg);
     width: 100%;
 }
+#img2{
+    margin-top: 2em;
+    grid-gap: 1em;
+}
