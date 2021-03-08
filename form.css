@@ -4,3 +4,14 @@
   height: 1000px;
   color: white;
 }
+.about{
+    text-align: center;
+  
+}
+#sec1{
+    background-color: #fff;
+}
+.services{
+    background-image: url(s_image.jpg);
+    width: 100%;
+}
