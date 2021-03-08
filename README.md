@@ -5,7 +5,7 @@
 # BEDAN TAKONA
 
 ## PROJECT DESCRIPTION
-This project is a personal portfolio. It contains:
+This project is a landing page for a fictional studio. It contains:
  
  * _A landing page_
  * _A personal description_
@@ -31,8 +31,7 @@ This project is a personal portfolio. It contains:
 8.The code will then be displayed 
 
 ### USER INTERACTION
-
-. 
+The user inputs his or her name, email address and a message confirming the information has successfully been received by the system will then pop up to the user. 
 
 
 ### TECHNOLOGIES USED
@@ -45,7 +44,7 @@ _LANGUAGES_
 
 * _Markdown_
 
-* Javascript
+* JQuery
 
 
 ### CONTACT INFORMATION
