@@ -7,9 +7,9 @@
 ## PROJECT DESCRIPTION
 This project is a landing page for a fictional studio. It contains:
  
- * _A landing page_
- * _A personal description_
- * _A photo of me_
+* A landing page.
+* A contact form 
+* A photo portfolio
  
 ### PROJECT SET UP INSTRUCTIONS
 * _INSTALLATION_
@@ -32,6 +32,7 @@ This project is a landing page for a fictional studio. It contains:
 
 ### USER INTERACTION
 The user inputs his or her name, email address and a message confirming the information has successfully been received by the system will then pop up to the user. 
+The user can toggle between icons and text by clicking on the icons.
 
 
 ### TECHNOLOGIES USED
@@ -77,4 +78,4 @@ SOFTWARE.
 
 ### LINK TO LIVE SITE ON GITHUB PAGES
 
-https://github.com/BedanTakona/Week_3_IP
+https://bedantakona.github.io/Week_3_IP/
