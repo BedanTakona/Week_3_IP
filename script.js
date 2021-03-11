@@ -11,9 +11,14 @@ $(document).ready(function(){
   })
 
   $("#product").click(function(){
-    $("show_product").toggle();
+    $("#show_prod").toggle();
     $(".hide_product").toggle();
-  })
-
-
   });
+
+  $("form").submit(function(){
+    var Name = $("input;text").val();
+    
+    alert($("input:text").val());
+   
+  });
+});

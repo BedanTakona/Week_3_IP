@@ -22,14 +22,13 @@
   
 }
 
-#img2{
-    margin-top: 2em;
-    grid-gap: 0.5em;
-}
+ 
 .contactus{
     background-image: url(c_image.jpg) ;
     width: 100%;
     height: 900px;
+    text-align: center;
+    margin-top: 100px;
     text-align: center;
     
 }
@@ -51,4 +50,10 @@
 .hide{
     display: none;
 }
-  
+.footer{
+    justify-content: center;
+    text-align: center;
+}
+#portsec{
+    margin-top:100px ;
+}
