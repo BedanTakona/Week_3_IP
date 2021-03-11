@@ -47,6 +47,8 @@ _LANGUAGES_
 
 * JQuery
 
+*Bootstrap
+
 
 ### CONTACT INFORMATION
 
