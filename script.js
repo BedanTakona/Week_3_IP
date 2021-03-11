@@ -16,9 +16,9 @@ $(document).ready(function(){
   });
 
   $("form").submit(function(){
-    
-    
     alert($("input:text").val());
-   
   });
+
+
+
 });
