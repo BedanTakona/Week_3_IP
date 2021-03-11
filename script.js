@@ -16,7 +16,7 @@ $(document).ready(function(){
   });
 
   $("form").submit(function(){
-    var Name = $("input;text").val();
+    
     
     alert($("input:text").val());
    
